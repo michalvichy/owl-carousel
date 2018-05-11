@@ -1,0 +1,23 @@
+{
+  "name": "owl-carousel",
+  "version": "1.3.2",
+  "description": "Clone of owl-carousel@1.3.2",
+  "main": "owl-carousel/owl.carousel.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalvichy/owl-carousel.git"
+  },
+  "keywords": [
+    "owl-carousel",
+    "carousel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalvichy/owl-carousel/issues"
+  },
+  "homepage": "https://github.com/michalvichy/owl-carousel#readme"
+}
